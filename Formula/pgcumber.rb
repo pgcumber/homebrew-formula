@@ -3,8 +3,8 @@ class Pgcumber < Formula
   homepage "https://github.com/arkadiusjonczek/pgcumber"
   
   url "https://github.com/arkadiusjonczek/pgcumber.git",
-      tag:      "0.2.3",
-      revision: "e3b2ddf427e977820812cb54e2663d8c8fdb825b"
+      tag:      "0.3.0",
+      revision: "546987768f44e901a63f3cedce40c0cf9604b1b7"
   
   license "MIT"
   depends_on "go" => :build
